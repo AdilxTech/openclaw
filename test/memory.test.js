@@ -169,13 +169,15 @@ describe("memoryTokensEqual helper", () => {
 });
 
 describe("MEMORY_FILE_MAP shape", () => {
-  test("has the seven expected keys", () => {
+  test("has the expected pillar keys", () => {
     assert.deepEqual(
       Object.keys(MEMORY_FILE_MAP).sort(),
       [
         "amanahfy",
         "faith",
         "family",
+        "mychorechtarts",
+        "ntw",
         "personal",
         "productivity-bot",
         "system",
