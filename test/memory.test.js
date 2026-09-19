@@ -176,7 +176,7 @@ describe("MEMORY_FILE_MAP shape", () => {
         "amanahfy",
         "faith",
         "family",
-        "mychorechart",
+        "mychorecharts",
         "ntw",
         "personal",
         "productivity-bot",

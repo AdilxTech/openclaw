@@ -12,7 +12,7 @@ export const MEMORY_FILE_MAP = Object.freeze({
   system: "system.md",
   "productivity-bot": "productivity-bot.md",
   ntw: "ntw.md",
-  mychorechart: "mychorechart.md",
+  mychorecharts: "mychorecharts.md",
 });
 
 const ENTRY_SEPARATOR = "\n\n---\n\n";
